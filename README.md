@@ -1,4 +1,4 @@
-# epicode_groupweek1
+# Epicode Group Week
 
 Progetti di gruppo (build week) svolti durante un corso di cybersecurity.
 I lavori sono organizzati in due cartelle, una per build week.
